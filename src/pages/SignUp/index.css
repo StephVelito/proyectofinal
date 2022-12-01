@@ -1,0 +1,10 @@
+body {
+    background: url("../../assets/huellas.jpeg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
